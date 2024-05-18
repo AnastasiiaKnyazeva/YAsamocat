@@ -12,7 +12,7 @@
 Проверить, что код ответа равен 200.
 
 Скриншот выполнения теста:
-(https://drive.google.com/file/d/1TSqzhhN37thl8Yyr_03PyGJSogZ5kE4B/view?usp=sharing)
+(https://drive.google.com/file/d/129ep1ePYmxbouc3Q--b0KKyiICp2NGZv/view?usp=sharing)
 
 Для запуска тестов должны быть установлены пакеты pytest и requests
 Запуск всех тестов выполянется командой pytest
